@@ -73,6 +73,7 @@ You’ll see the Swagger UI, where you can interact with the API endpoints direc
 ## 👨‍💻 Author
 
 **Md. Zobayer Ibna Kabir**  
-📧 Email: [ibnakabir081@gmail.com]  
-🔗 GitHub: [https://github.com/ZobayerAkib](https://github.com/ZobayerAkib)  
-💼 LinkedIn: [https://linkedin.com/in/mdzobayeribnakabir/](https://www.linkedin.com/in/mdzobayeribnakabir/)
+- 📧 **Email:** [ibnakabir081@gmail.com](mailto:ibnakabir081@gmail.com)  
+- 💻 **GitHub:** [ZobayerAkib](https://github.com/ZobayerAkib)  
+- 💼 **LinkedIn:** [Md. Zobayer Ibna Kabir](https://www.linkedin.com/in/mdzobayeribnakabir/) 
+✨ **Let's collaborate, share knowledge, and create amazing projects together!**
