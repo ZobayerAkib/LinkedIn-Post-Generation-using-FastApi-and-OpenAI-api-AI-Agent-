@@ -47,7 +47,7 @@ BASE_URL="https://models.github.ai/inference"
 API_KEY="your_api_key_here"
 MODEL_NAME="openai/gpt-4.1-nano"
 ```
-#▶️ Run the API
+### ▶️ Run the API
 ```bash
 uvicorn main:app --reload
 ```
