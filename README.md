@@ -33,9 +33,17 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 
 ```
+requirements.txt 
+```ini
+fastapi==0.115.6
+uvicorn==0.32.1
+openai==1.66.3
+python-dotenv==1.0.1
+pydantic==2.10.6
+```
 ### 4️⃣ Configure Environment Variables
 ```bash
-pip install -r requirements.txtBASE_URL="https://models.github.ai/inference"
+BASE_URL="https://models.github.ai/inference"
 API_KEY="your_api_key_here"
 MODEL_NAME="openai/gpt-4.1-nano"
 ```
