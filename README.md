@@ -74,5 +74,5 @@ You’ll see the Swagger UI, where you can interact with the API endpoints direc
 
 **Md. Zobayer Ibna Kabir**  
 📧 Email: [ibnakabir081@gmail.com]  
-🔗 GitHub: [https://github.com/yourusername](https://github.com/ZobayerAkib)  
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdzobayeribnakabir/)
+🔗 GitHub: [https://github.com/ZobayerAkib](https://github.com/ZobayerAkib)  
+💼 LinkedIn: [https://linkedin.com/in/mdzobayeribnakabir/](https://www.linkedin.com/in/mdzobayeribnakabir/)
